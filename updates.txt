@@ -1,0 +1,14 @@
+Escape From Horror
+
+2025.05.17.17
+
+Güncellemeler:
+
+Genişletilmiş Haritalar: Demo'daki tek ormandan farklı olarak 5 yeni harita (terk edilmiş hastane, eski okul, kasaba vb.)
+Yeni Düşmanlar: Slenderman dışında 3 yeni yaratık türü
+Hikaye Modu: Detaylı hikaye kurgusu
+Teknik Detaylar
+Oyun Motoru ve Boyut Bilgileri
+Oyun Motoru: Unity 2022.3.15f1 ve Pyronex Engine 2025.05.22.14
+Build Boyutu: ~5.6GB
+Platformlar: Windows (x64)
